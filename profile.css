@@ -1,0 +1,121 @@
+
+/* trang profile */
+/* trang profile */
+/* trang profile */
+/* trang profile */
+
+.logo {
+  font-size: 20px;
+ margin-top: -90px;
+  text-align: left;
+}
+
+.profile{
+    font-size: 60px;
+    margin: 10px;
+    text-align: center;
+    margin-top: 100px;
+  }
+  .imgne {
+    display: flex;
+  justify-content: center;
+  
+  }
+  .img1 {
+    width:  800px;
+    height: 1200px;
+    border-radius: 0px;
+  
+  
+  }
+  
+  .content-2 p {
+    padding-top: 35px;
+    line-height: 24px;
+    font-size: 18px;
+  }
+  
+  .container-2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+  }
+  
+  .row{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 100px 0px;
+  
+  }
+  .col-6{
+   padding: 30px;
+    width: 50%;
+    display: inline-block;
+  }
+  .col-6 img {
+    border-radius: 2px;
+  
+  }
+  
+  .col-6 p {
+    padding-top: 80px;
+    font-size: 20px;
+    line-height: 40px;
+  }
+  
+  
+  /* ffff */
+  .footer-end {
+    display: block;
+    width: 100%;
+    height:300px ;
+    padding: 0px 50px;
+  }
+  .footer-end h1 {
+    padding-top: 30px;
+  }
+  .thongtin>div{
+    margin: 30px 0px;
+  }
+  .thongtin>div>ul>li{
+    list-style: none;
+  }
+  .thongtin>div>ul {
+    display: flex;
+  }
+  .iconphuu {
+    margin-top: 10px;
+    height: 48px;
+    padding: 15px;
+    background-color: rgb(216, 94, 24);
+    border-radius: 10px;
+  }
+  .phone-item {
+    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding-left: 10px;
+  
+  }
+  .list-tt {
+    padding-top: 14px;
+  }
+  .thongtin {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .map {
+    position: absolute;
+    z-index: 0;
+    right: 20px;
+    padding: 90px;
+    margin-top: -39.333%;
+    cursor: url("https://www.google.com/maps/d/embed?mid=1Ykj87ASENIwtXepWe6xrPczHFKgpEPY&ehbc=2E312F"), default;
+    touch-action: pan-x pan-y;
+  }
+  .fb-like {
+    margin-top: 5%;
+  }

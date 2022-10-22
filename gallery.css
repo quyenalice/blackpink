@@ -1,0 +1,199 @@
+/* *{
+  border: 1px solid black;
+} */
+
+
+.logo {
+  font-size: 20px;
+ margin-top: -99px;
+  margin-left: 3%;
+  text-align: left;
+  color:black;
+  float: left;
+}
+
+
+.fixxder{
+    position: fixed;
+  }
+  
+  .row-4 {
+    margin-top: -150px ;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-44{
+    padding: 10px;
+    width: 33.333%;
+  }
+  
+  .container-4  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: flex;
+  }
+  
+  
+  .container-4 .img2 {
+    width: 263px;
+    height: 188px;
+  }
+  .container-4 > .img-1 {
+    background-image: url('./img/t1.jpg');
+    background-size: cover;
+    width: 134px;
+    height: 188px;
+  }
+  .container-4 > .img-2 {
+    background-image: url('./img/t2.jpg');
+    background-size: cover;
+    width: 263px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-4 > .img-3 {
+    background-image: url('./img/t3.jpg');
+    background-size: cover;
+    width: 134px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-4 > .img-4 {
+    background-image: url('./img/t4.jpg');
+    background-size: cover;
+    width: 134px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-4 > .img-5 {
+    background-image: url('./img/t5.jpg');
+    background-size: cover;
+    width: 134px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-4 > .img-6 {
+    background-image: url('./img/t6.jpg');
+    background-size: cover;
+    width: 134px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-4 > .img-7 {
+    background-image: url('./img/t7.jpg');
+    background-size: cover;
+    width: 135px;
+    height: 188px;
+    margin-left: 5px;
+  }
+  .container-5 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: flex;
+    margin-top: 5px;
+  }
+  .container-5 > .img-8 {
+    background-image: url('./img/t8.jpg');
+    background-size: cover;
+    width: 135px;
+    height: 188px;
+  
+  }
+  .container-5 > .img-9 {
+    background-image: url('./img/t9.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-10 {
+    background-image: url('./img/t10.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-11 {
+    background-image: url('./img/t11.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-12 {
+    background-image: url('./img/t12.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-13 {
+    background-image: url('./img/t13.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-14 {
+    background-image: url('./img/t14.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  .container-5 > .img-15 {
+    background-image: url('./img/t15.jpg');
+    background-size: cover;
+    width: 133px;
+    height: 187px;
+    margin-left: 5px;
+  }
+  
+  .container-6  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: flex;
+    margin-top: 5px;
+  }
+  
+  .container-6 > .img-16 {
+    background-image: url('./img/t16.jpg');
+    background-size: cover;
+    width: 121px;
+    height: 170px;
+  }
+  .container-6 > .img-17 {
+    background-image: url('./img/t17.jpg');
+    background-size: cover;
+    width: 121px;
+    height: 170px;
+    margin-left: 5px;
+  }
+  .container-6 > .img-18 {
+    background-image: url('./img/t18.jpg');
+    background-size: cover;
+    width: 121px;
+    height: 170px;
+    margin-left: 5px;
+  }
+  .container-6 > .img-19 {
+    background-image: url('./img/t19.jpg');
+    background-size: cover;
+    width: 121px;
+    height: 170px;
+    margin-left: 5px;
+  }
+  .container-6 > .img-20 {
+    background-image: url('./img/t20.jpg');
+    background-size: cover;
+    width: 121px;
+    height: 170px;
+    margin-left: 5px;
+  }
+  
+  
